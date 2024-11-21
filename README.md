@@ -9,3 +9,5 @@ This repo  contain all the blogs  of system amdinistration.
 #  Progress-Chef Blog :  https://sysadmininsights.blogspot.com/2024/07/progress-chef.html 
 #  VOIP Blog :  https://sysadmininsights.blogspot.com/2024/07/voice-over-internet-protocol.html
 # Pro FTPD Blog :   https://sysadmininsights.blogspot.com/2024/07/proftpd.html
+# Rsync  Blog         :   https://sysadmininsights.blogspot.com/2024/09/rsync.html
+#   Cryptography  Blog      : https://sysadmininsights.blogspot.com/2024/11/cryptography.html
